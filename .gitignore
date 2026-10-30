@@ -1,0 +1,5 @@
+node_modules/
+screenshots/
+*.mp4
+*.wav
+.env

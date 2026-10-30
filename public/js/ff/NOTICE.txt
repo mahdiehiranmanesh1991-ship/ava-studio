@@ -1,0 +1,1 @@
+Vendored from @ffmpeg/ffmpeg 0.12.10 (MIT License, https://github.com/ffmpegwasm/ffmpeg.wasm)
